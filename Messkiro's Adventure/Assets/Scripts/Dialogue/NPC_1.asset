@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9131585a6ecb144db11058a234a55fa, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 59318337658331995, guid: 74da22b045532a144b9b4ec2b2abc6b4, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Mo\xE7a"
+    profile: {fileID: 7087558793664773902, guid: 0437dde475215f64c93fb522734ddfd9, type: 3}
+    sentece:
+      portuguese: "Ol\xE1. Tudo bem?"
+      english: 
+      spanish: 
+  - actorName: "Her\xF3i"
+    profile: {fileID: 2203037612859406267, guid: 9057cbdbd150a4444b9193cc0ecf0286, type: 3}
+    sentece:
+      portuguese: "Sim. E voc\xEA?"
+      english: 
+      spanish: 
