@@ -7,13 +7,35 @@ public class NPC_Dialogue : MonoBehaviour
     public float dialogueRange;
     public LayerMask playerLayer;
 
-    // Start is called before the first frame update
-    void Start()
+    public DialogueSettings dialogue;
+
+    bool playerHit;
+
+    private List<string> sentences = new List<string>();
+
+    private void Start()
     {
-        
+        GetNPCInfo();
     }
 
-    // Update is called once per frame
+    // chamado a cada frame
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E) && playerHit)
+        {
+            DialogueControl.instance.Speech(sentences.ToArray());
+        }
+    }
+
+    void GetNPCInfo()
+    {
+        for(int i = 0; i < dialogue.dialogues.Count; i++)
+        {
+            sentences.Add(dialogue.dialogues[i].sentence.portuguese);
+        }
+    }
+
+    // usado pela física
     void FixedUpdate()
     {
         ShowDialogue();
@@ -25,11 +47,11 @@ public class NPC_Dialogue : MonoBehaviour
 
         if(hit != null)
         {
-            Debug.Log("Player na área de colisão");
+            playerHit = true;
         }
         else
         {
-            
+            playerHit = false;
         }
     }
 

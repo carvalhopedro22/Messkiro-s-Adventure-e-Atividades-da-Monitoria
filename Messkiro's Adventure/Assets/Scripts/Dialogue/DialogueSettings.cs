@@ -21,7 +21,7 @@ public class Sentences // criar frases para o NPC
 {
     public string actorName; // nome do NPC
     public Sprite profile; // foto de perfil
-    public Languages sentece; // língua
+    public Languages sentence; // língua
 }
 
 [System.Serializable]
