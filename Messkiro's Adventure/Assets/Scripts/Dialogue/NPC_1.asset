@@ -20,11 +20,11 @@ MonoBehaviour:
     profile: {fileID: 7087558793664773902, guid: 0437dde475215f64c93fb522734ddfd9, type: 3}
     sentece:
       portuguese: "Ol\xE1. Tudo bem?"
-      english: 
-      spanish: 
-  - actorName: "Her\xF3i"
+      english: Hello. How are you?
+      spanish: "\xBFHola que tal?"
+  - actorName: "Mo\xE7a"
     profile: {fileID: 2203037612859406267, guid: 9057cbdbd150a4444b9193cc0ecf0286, type: 3}
     sentece:
-      portuguese: "Sim. E voc\xEA?"
-      english: 
-      spanish: 
+      portuguese: "Voc\xEA gostaria de aprender mais sobre compiladores?"
+      english: Would you like to learn more about compilers?
+      spanish: "\xBFLe gustar\xEDa aprender m\xE1s sobre los compiladores?"
