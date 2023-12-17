@@ -5,15 +5,16 @@ using UnityEngine;
 public class PlayerItens : MonoBehaviour
 {
     public int totalWood;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int carrots;
+    
+    public float currentWater;
+    private float waterLimit = 50;
 
-    // Update is called once per frame
-    void Update()
+    public void WaterLimit(float water)
     {
-        
+        if(currentWater < waterLimit)
+        {
+            currentWater += water;
+        }
     }
 }

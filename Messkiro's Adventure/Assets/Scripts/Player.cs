@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float runSpeed;
 
     private Rigidbody2D rig;
+    private PlayerItens playerItens;
 
     private float initialSpeed;
     private Vector2 _direction;
@@ -15,6 +16,7 @@ public class Player : MonoBehaviour
     private bool _isRolling;
     private bool _isCutting;
     private bool _isDigging;
+    private bool _isWatering;
 
     private int handlingObj;
 
@@ -48,9 +50,16 @@ public class Player : MonoBehaviour
         set { _isDigging = value; }
     }
 
+    public bool isWatering
+    {
+        get { return _isWatering; }
+        set { _isWatering = value; }
+    }
+
     private void Start()
     {
         rig = GetComponent<Rigidbody2D>();
+        playerItens = GetComponent<PlayerItens>();
         initialSpeed = speed;
     }
 
@@ -66,11 +75,17 @@ public class Player : MonoBehaviour
             handlingObj = 1;
         }
 
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            handlingObj = 2;
+        }
+
         OnInput();
         OnRun();
         OnRolling();
         OnCutting();
         OnDigging();
+        OnWatering();
     }
 
     private void FixedUpdate()
@@ -132,6 +147,7 @@ public class Player : MonoBehaviour
             }
         }  
     }
+
     void OnDigging() // handlingObj = 1
     {
         if(handlingObj == 1)
@@ -148,6 +164,29 @@ public class Player : MonoBehaviour
                 speed = initialSpeed;
             }
         }   
+    }
+
+    void OnWatering() // handlingObj = 2
+    {
+        if (handlingObj == 2)
+        {
+            if (Input.GetMouseButtonDown(0) && playerItens.currentWater > 0) // 0 = Botão esquerdo do mouse
+            {
+                isWatering = true;
+                speed = 0f;
+            }
+
+            if (Input.GetMouseButtonUp(0) || playerItens.currentWater < 0)
+            {
+                isWatering = false;
+                speed = initialSpeed;
+            }
+
+            if (isWatering)
+            {
+                playerItens.currentWater -= 0.01f;
+            }
+        }
     }
     #endregion
 }
