@@ -16,14 +16,20 @@ MonoBehaviour:
   speakerSprite: {fileID: 0}
   sentence: 
   dialogues:
-  - actorName: "Mo\xE7a"
-    profile: {fileID: 7087558793664773902, guid: 0437dde475215f64c93fb522734ddfd9, type: 3}
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
     sentece:
-      portuguese: "Ol\xE1. Tudo bem?"
+      portuguese: "Ol\xE1. Tudo bem? Me chamo Eysa."
       english: Hello. How are you?
-      spanish: "\xBFHola que tal?"
-  - actorName: "Mo\xE7a"
-    profile: {fileID: 2203037612859406267, guid: 9057cbdbd150a4444b9193cc0ecf0286, type: 3}
+      spanish: "\xBFHola que tal? "
+  - actorName: "Her\xF3i"
+    profile: {fileID: 21300000, guid: 0a8389e4c38ca804e84557c7fa231002, type: 3}
+    sentece:
+      portuguese: Tudo bem!
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
     sentece:
       portuguese: "Voc\xEA gostaria de aprender mais sobre compiladores?"
       english: Would you like to learn more about compilers?

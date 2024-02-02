@@ -153,7 +153,11 @@ public class Player : MonoBehaviour
                 isCutting = false;
                 speed = initialSpeed;
             }
-        }  
+        }
+        else
+        {
+            isCutting = false;
+        }
     }
 
     void OnDigging() // handlingObj = 1
@@ -171,7 +175,11 @@ public class Player : MonoBehaviour
                 isDigging = false;
                 speed = initialSpeed;
             }
-        }   
+        }
+        else
+        {
+            isDigging = false;
+        }
     }
 
     void OnWatering() // handlingObj = 2
@@ -194,6 +202,10 @@ public class Player : MonoBehaviour
             {
                 playerItens.currentWater -= 0.01f;
             }
+        }
+        else
+        {
+            isWatering = false;
         }
     }
     #endregion

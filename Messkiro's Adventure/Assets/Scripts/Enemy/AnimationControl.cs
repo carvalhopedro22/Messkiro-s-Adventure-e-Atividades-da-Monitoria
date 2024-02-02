@@ -33,10 +33,7 @@ public class AnimationControl : MonoBehaviour
 
             if (hit != null)
             {
-                // esqueleto está colidindo com o jogador
-                // Debug.Log("Bateu");
                 player.OnHit();
-                //hit.GetComponent<PlayerAnim>().OnHit();
             }
         }
     }
