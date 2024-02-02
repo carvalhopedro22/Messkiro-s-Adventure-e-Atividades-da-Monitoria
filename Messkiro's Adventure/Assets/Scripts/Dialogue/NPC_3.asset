@@ -19,30 +19,213 @@ MonoBehaviour:
   - actorName: Alfred
     profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
-      portuguese: "Ol\xE1!"
+      portuguese: "Ol\xE1! Meu nome \xE9 Alfred. "
       english: 
       spanish: 
-  - actorName: 
-    profile: {fileID: 0}
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
-      portuguese: 
+      portuguese: "Posso ajudar voc\xEA com as unidades 4 e 5 de compiladores."
       english: 
       spanish: 
-  - actorName: 
-    profile: {fileID: 0}
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
-      portuguese: 
+      portuguese: Mas antes, certifique-se de ter conversado com meus colegas.
       english: 
       spanish: 
-  - actorName: 
-    profile: {fileID: 0}
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
-      portuguese: 
+      portuguese: "Na unidade 4 veremos a\xE7\xF5es sem\xE2nticas e tradu\xE7\xE3o
+        dirigida por sintaxe."
       english: 
       spanish: 
-  - actorName: 
-    profile: {fileID: 0}
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
-      portuguese: 
+      portuguese: "Uma defini\xE7\xE3o dirigida por sintaxe \xE9 uma GLC acrescida
+        de atributos em seus s\xEDmbolos e regras sem\xE3nticas \xE0s suas produ\xE7\xF5es."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: Temos atributos sintetizados e atributos herdados.
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Para SDDs com atributos herdados e sintetizados, n\xE3o h\xE1
+        garantias de que exista uma ordem para avali\xE1-los."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Precisamos lembrar aqui das \xE1rvores de deriva\xE7\xE3o anotadas."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Grafos de depend\xEAncia: ferramenta para determinar uma ordem
+        de avalia\xE7\xE3o para as inst\xE2ncias dos atributos."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: Veja os exemplos no seu material.
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "SDD S-atribu\xEDda: todo atributo \xE9 sintetizado (ordem ascendente)."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "SDD L-atribu\xEDda: todo atributo s\xE3o sintetizados ou herdados
+        com limita\xE7\xF5es em suas regras."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: 'Agora veremos um pouco sobre SDTs. '
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "SDT \xE9 uma GLC com fragmentos de c\xF3digo incorporados nos
+        corpos de sua produ\xE7\xE3o."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "SDTs p\xF3s-fixadas: todas as a\xE7\xF5es sem\xE2nticas est\xE3o
+        nos extremos direitos dos corpos das produ\xE7\xF5es."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "SDTs podem ter a\xE7\xF5es sem\xE2nticas inseridas nas produ\xE7\xF5es
+        (n\xE3o necessariamente ao final das produ\xE7\xF5es)."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "An\xE1lise Ascendente de SDDs L-atribu\xEDdas:"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Dada um SDD L-atribu\xEDda, a uma gram\xE1tica LL, \xE9 poss\xEDvel
+        adaptar a gram\xE1tica para"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "computar a mesma SDD para a nova gram\xE1tica durante uma an\xE1lise
+        LR."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Temos tamb\xE9m as representa\xE7\xF5es intermedi\xE1rias."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "DAG: grafo ac\xEDclico direcionado - identifica express\xF5es
+        comuns (ver exemplo no material)."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "M\xE9todo C\xF3digo num\xE9rico: os n\xF3s do DAG s\xE3o armazenados
+        em um arranjo de registros."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "C\xF3digo de tr\xEAs endere\xE7os: representa\xE7\xE3o linear
+        do DAG. Pode ser feito em qu\xE1druplas ou triplas."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Por fim, temos os esquemas de tradu\xE7\xE3o com remendo. Sugiro
+        fazer v\xE1rios exerc\xEDcios de todos esses conceitos."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Para finalizar o conte\xFAdo temos a unidade 5. Aqui falaremos
+        sobre Otimiza\xE7\xE3o e gerenciamento de mem\xF3ria."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Leia primeiro o in\xEDcio do material sobre ambientes de execu\xE7\xE3o."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Blocos B\xE1sicos e Grafos de Fluxo:"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Representa\xE7\xE3o do c\xF3digo intermedi\xE1rio na forma de
+        um grafo."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "No grafo teremos os blocos b\xE1sicos como n\xF3s e as arestas
+        denotam quais blocos podem seguir para outros blocos."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Por fim temos a parte de gerador de c\xF3digo. Aqui temos alguns
+        pontos importantes para lembrar:"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "1) Otimiza\xE7\xE3o peephole; 2) Elimina\xE7\xE3o de instru\xE7\xE3o
+        redundante; 3) Elimina\xE7\xE3o de c\xF3digo inalcan\xE7\xE1vel e 4) Otimiza\xE7\xE3o
+        do fluxo de controle."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "\xC9 isso. Espero que n\xF3s tr\xEAs tenhamos ajudado voc\xEA.
+        Divirta-se com as tarefas do jogo :)"
       english: 
       spanish: 
