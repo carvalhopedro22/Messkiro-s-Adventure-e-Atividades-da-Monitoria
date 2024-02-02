@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9131585a6ecb144db11058a234a55fa, type: 3}
+  m_Name: NPC_2
+  m_EditorClassIdentifier: 
+  actor: {fileID: 4802555388411331370, guid: d4932a457f920064cb3a19032d980099, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Ol\xE1! Eu sou o Trian. Posso ajudar voc\xEA com as unidades 2
+        e 3 de compiladores."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Mas n\xE3o deixe de falar com minha colega Eysa antes de come\xE7armos
+        XD."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Bom, na unidade 2 nosso foco \xE9 a an\xE1lise l\xE9xica em detalhes."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "A an\xE1lise l\xE9xica transforma um fluxo de caracteres em um
+        fluxo de tokens."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: 'Token: par consistindo em nome e valor de atributo.'
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Lexema: sequ\xEAncia de caracteres no programa fonte que casa
+        com o padr\xE3o para o token."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Padr\xE3o: descri\xE7\xE3o da forma que os lexemas de um token
+        podem assumir."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "\xC9 poss\xEDvel que erros l\xE9xicos ocorram e o analisador l\xE9xico
+        pode n\xE3o reconhec\xEA-los. Aten\xE7\xE3o!"
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Para especificar os lexemas podemos utilizar opera\xE7\xF5es j\xE1
+        estudadas (uni\xE3o, concat. kleene), al\xE9m das ERs."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Usando AFs: A identifica\xE7\xE3o de um novo token come\xE7a do
+        estado inicial e deve chegar no final."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Lembre-se de ler sobre o LEX! Agora passamos para os algoritmos
+        de convers\xE3o."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Os algoritmos podem ser encontrados no material. Lembre-se de
+        retirar as d\xFAvidas com o monitor."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Podemos construir um AFN a partir de uma ER. O passo a passo para
+        isso \xE9: "
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "1) \xC1rvore Sint\xE1tica; 2) First e Lastpos; 3) Followpos; 4)
+        AFN."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Tam\xE9m \xE9 poss\xEDvel transformar uma ER diretamente para
+        um AFD."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Por fim, podemos minimizar um AFD ao retirar estados \"desnecess\xE1rios\"."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Agora vamos revisar a unidade 3, que possui o foco na an\xE1lise
+        sint\xE1tica."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "O analisador sint\xE1tico recebe os tokens e verifica de a cadeia
+        pertence \xE0 linguagem da gram\xE1tica."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Assim como na an\xE1lise l\xE9xica, erros na an\xE1lise sint\xE1tica
+        tamb\xE9m podem ocorrer."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Aqui, utilizamos APs e GLCs. Assim, precisaremos do conceito de
+        deriva\xE7\xF5es e \xE1rvores de deriva\xE7\xE3o."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "A an\xE1lise sint\xE1tica pode ser descendente ou ascendente.
+        Vamos revisar cada uma."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Descendente: m\xE9todo que produz deriva\xE7\xF5es mais \xE0 esquerda."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Aqui precisamos calcular o first e follow da gram\xE1tica."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Um exemplo de gram\xE1tica utilizada aqui \xE9 a LL(1). Ela \xE9
+        rica e n\xE3o pode ter recurs\xE3o \xE0 esq. e nem ser amb\xEDgua."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Lembre-se do algoritmo para construir a tabela de reconhecimento
+        sint\xE1tico preditivo."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Ascendente: constru\xE7\xE3o da \xE1rvore de deriva\xE7\xE3o das
+        folhas para a raiz. Temos aqui uma deriva\xE7\xE3o mais \xE0 direita."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Nessa an\xE1lise temos as chamadas redu\xE7\xF5es, que reduz uma
+        cadeia para o s\xEDmbolo inicial da gram\xE1tica."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Assim , o nome do m\xE9todo que utilizaremos \xE9 o shift-reduce."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Por fim, temos a An\xE1lise SLR, com a constru\xE7\xE3o do aut\xF4mato
+        LR(0) e das tabelas de an\xE1lise SLR."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Leia tamb\xE9m sobre Yacc."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Sugiro fortemente realizar v\xE1rios exerc\xEDcios sobre os algoritmos
+        vistos aqui."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "At\xE9 mais, lembre-se que meu colega Alfred poder\xE1 ajudar
+        com as unidades finais."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "Ele est\xE1 ao sul da aldeia. Perto das ru\xEDnas. Tenha cuidado
+        ao ir para l\xE1."
+      english: 
+      spanish: 

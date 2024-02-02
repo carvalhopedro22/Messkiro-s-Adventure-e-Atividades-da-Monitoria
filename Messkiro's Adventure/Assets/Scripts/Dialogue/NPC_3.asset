@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9131585a6ecb144db11058a234a55fa, type: 3}
+  m_Name: NPC_3
+  m_EditorClassIdentifier: 
+  actor: {fileID: 6783649297321975636, guid: 669cf590d61c90640a5f213c7d6ef520, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "Ol\xE1!"
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: 0}
+    sentece:
+      portuguese: 
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: 0}
+    sentece:
+      portuguese: 
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: 0}
+    sentece:
+      portuguese: 
+      english: 
+      spanish: 
+  - actorName: 
+    profile: {fileID: 0}
+    sentece:
+      portuguese: 
+      english: 
+      spanish: 

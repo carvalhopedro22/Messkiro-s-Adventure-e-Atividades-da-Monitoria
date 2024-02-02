@@ -20,17 +20,234 @@ MonoBehaviour:
     profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
     sentece:
       portuguese: "Ol\xE1. Tudo bem? Me chamo Eysa."
-      english: Hello. How are you?
-      spanish: "\xBFHola que tal? "
-  - actorName: "Her\xF3i"
-    profile: {fileID: 21300000, guid: 0a8389e4c38ca804e84557c7fa231002, type: 3}
-    sentece:
-      portuguese: Tudo bem!
       english: 
       spanish: 
   - actorName: Eysa
     profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
     sentece:
-      portuguese: "Voc\xEA gostaria de aprender mais sobre compiladores?"
-      english: Would you like to learn more about compilers?
-      spanish: "\xBFLe gustar\xEDa aprender m\xE1s sobre los compiladores?"
+      portuguese: "Voc\xEA gostaria de aprender mais sobre compiladores? Posso lhe
+        ajudar com a Unidade 1!"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Antes de come\xE7armos gostaria de avisar que meus colegas poder\xE3o
+        ajudar voc\xEA com as outras unidades."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "N\xE3o deixe de falar com eles quando a hora chegar! Trian ajudar\xE1
+        com as unidades 2 e 3 e Alfred com as unidades 4 e 5."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Bom, ent\xE3o vamos revisar a unidade 1. "
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Um compilador recebe como entrada um c\xF3digo-fonte e produz
+        um programa objeto."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Um interpretador recebe um programa fonte e a entrada e j\xE1
+        produz uma sa\xEDda."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "J\xE1 na m\xE1quina virtual existe um compilador/tradutor que
+        gera um c\xF3digo intermedi\xE1rio a partir do c\xF3digo-fonte. "
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Este c\xF3digo int. \xE9 passado juntamente com a entrada e a
+        m\xE1quina virtual produz uma sa\xEDda."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: 'Um compilador possui 5 fases, sendo elas:'
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "An\xE1lise l\xE9xica, sint\xE1tica, sem\xE2ntica, gerador de c\xF3digo
+        intermedi\xE1rio, otimizador de c\xF3digo."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Aqui focaremos em uma vis\xE3o geral. Meus colegas detalhar\xE3o
+        as tr\xEAs fases de an\xE1lises para voc\xEA."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "As fases de an\xE1lise e de gera\xE7\xE3o de c\xF3digo pertencem
+        ao front-end do compilador (nosso foco)."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Voc\xEAs ver\xE3o que utilizaremos os aut\xF4matos j\xE1 estudados
+        nas fases de an\xE1lise!"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Na an\xE1lise l\xE9xica ser\xE3o usados AFs e ERs. Na an\xE1lise
+        sint\xE1tica ser\xE3o usados APs e GLCs."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: 'Vamos definir cada fase:'
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "O analisador l\xE9xico agrupa o texto de entrada em lexemas e
+        produz uma sa\xEDda composta de tokens."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "O analisador sint\xE1tico verifica a ordem dos tokens."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "O analisador sem\xE2ntico verifica se o que est\xE1 sendo escrito
+        possui signficado correto."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "O gerador de c\xF3digo int., a partir de uma \xE1rvore gera um
+        c\xF3digo."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Vamos agora ver uma vis\xE3o geral do conte\xFAdo:"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Sintaxe da linguagem: <op, +> Aqui, op \xE9 um token e + um atributo."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Tradu\xE7\xE3o Dirigida por Sintaxe: \xC9 uma nota\xE7\xE3o para
+        conectar fragmentos de programas \xE0s produ\xE7\xF5es."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "\xC1rvore de Deriva\xE7\xE3o Anotada: \xE1rvore que mostra os
+        valores dos atributos em cada n\xF3."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "A\xE7\xE3o sem\xE2ntica: fragmentos de c\xF3digo embutidos nos
+        corpos das produ\xE7\xF5es."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "A an\xE1lise sint\xE1tica pode ser dividida em classes descendentes
+        e ascendentes."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Aqui, temos tamb\xE9m as an\xE1lises de descida recursiva. Lembre-se
+        de eliminar a recursividade \xE0 esquerda."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Voltando para a An\xE1lise l\xE9xica. Sabemos o que \xE9 um token."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Ele carrega junto com o terminal, valores de atributos. O analisador
+        sint\xE1tico ignora esses valores."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Temos tamb\xE9m as tabelas de s\xEDmbolos. "
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Elas s\xE3o utilizadas para conter informa\xE7\xF5es sobre as
+        constru\xE7\xF5es do programa fonte."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Lembre-se do conceito de tabelas multin\xEDveis!!"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "E \xE9 isso! Lembre-se de estudar a fundo os conceitos que voc\xEA
+        n\xE3o lembra direito!"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Trian pode ser encontrado ao norte. Basta seguir a estrada ao
+        norte da est\xE1tua no centro da vila."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Divirta-se por aqui tamb\xE9m.  Voc\xEA pode realizar tarefas
+        (plantar, pescar, cortar leha) e matar monstros ^^"
+      english: 
+      spanish: 
