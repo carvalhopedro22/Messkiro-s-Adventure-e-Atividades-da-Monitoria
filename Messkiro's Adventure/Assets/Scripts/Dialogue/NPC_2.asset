@@ -229,8 +229,47 @@ MonoBehaviour:
   - actorName: Trian
     profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
     sentece:
-      portuguese: "At\xE9 mais, lembre-se que meu colega Alfred poder\xE1 ajudar
-        com as unidades finais."
+      portuguese: "Vejamos alguns exerc\xEDcios:"
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "1) Como os analisadores identificam erros l\xE9xicos, sint\xE1tios
+        ou sem\xE3nticos?"
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "2) Converta a express\xE3o (a | b)*abb(a | b)* para AFD seguindo
+        o passo a passo que mencionei."
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "3) Como calculamos o firstpos e lastpos de uma gram\xE1tica? "
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "4) Para que serve o conjunto de followpos nos algoritmos de convers\xE3o?"
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "5) Quais os tipos de an\xE1lise que podemos fazer na an\xE1lise
+        sint\xE1tica?"
+      english: 
+      spanish: 
+  - actorName: Trian
+    profile: {fileID: 21300000, guid: 64df4c48ebfee8e4b853911983627c66, type: 3}
+    sentece:
+      portuguese: "\xC9 isso! At\xE9 mais! Lembre-se que meu colega Alfred poder\xE1
+        ajudar com as unidades finais."
       english: 
       spanish: 
   - actorName: Trian

@@ -240,8 +240,54 @@ MonoBehaviour:
   - actorName: Eysa
     profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
     sentece:
-      portuguese: "Trian pode ser encontrado ao norte. Basta seguir a estrada ao
-        norte da est\xE1tua no centro da vila."
+      portuguese: "Agora, alguns exerc\xEDcios:"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: 1) Qual a vantagem de um compilador sobre um interpretador?
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "2) Quais fases se comunicam pela solicita\xE7\xE3o e envio de
+        tokens?"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "3) Por que a ordem das fases de an\xE1lise \xE9 importante de
+        ser seguida?"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "4) Explique como a tabela de s\xEDmbolos \xE9 constru\xEDda."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "5) Por que \xE9 importante eliminar a recursividade \xE0 esquerda
+        nas an\xE1lises de descida recursiva?"
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "6) Explique o que s\xE3o os c\xF3digos de 3 endere\xE7os e como
+        eles s\xE3o gerados."
+      english: 
+      spanish: 
+  - actorName: Eysa
+    profile: {fileID: 21300000, guid: 3928d7b0277bb84408d0a51eceead2e7, type: 3}
+    sentece:
+      portuguese: "Pronto! Trian pode ser encontrado ao norte. Basta seguir a estrada
+        ao norte da est\xE1tua no centro da vila."
       english: 
       spanish: 
   - actorName: Eysa

@@ -225,6 +225,44 @@ MonoBehaviour:
   - actorName: Alfred
     profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
     sentece:
+      portuguese: "Tenho alguns exerc\xEDcios para voc\xEA."
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: 1) Diferencie SDD e SDT.
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: 2) Para que serve o DAG?
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "3) O que \xE9 uma a\xE7\xE3o sem\xE2ntica e para que ela \xE9
+        usada?"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "4) O que seria um bloco b\xE1sico? Como ocorre o fluxo entre blocos
+        b\xE1sicos?"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
+      portuguese: "5) Quais s\xE3o os pontos importantes ao considerar uma otimiza\xE7\xE3o?"
+      english: 
+      spanish: 
+  - actorName: Alfred
+    profile: {fileID: 21300000, guid: 903aafe204f21644a8efa8cef3d68bbb, type: 3}
+    sentece:
       portuguese: "\xC9 isso. Espero que n\xF3s tr\xEAs tenhamos ajudado voc\xEA.
         Divirta-se com as tarefas do jogo :)"
       english: 
