@@ -1,4 +1,4 @@
-# 🎮 Messkiro's Adventure e Atividades da Monitoria - CCF 441
+# 🎮 Messkiro's Adventure e Atividades da Monitoria - CCF 441 (Compiladores)
 
 ### 📌 Repositório para o jogo Messkiro's Adventure e exemplos de atividades extras aplicados na monitoria da disciplina CCF 441 (Compiladores) do curso de Ciência da Computação da UFV-Florestal.
 
