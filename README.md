@@ -15,7 +15,7 @@ Este material foi elaborado para apoiar uma pesquisa acadêmica sobre o impacto 
 
 - **Pasta "Atividades Extras da Monitoria"** → Contém dois PDFs com exemplos de atividades extras aplicadas durante a monitoria da disciplina.
 - **Pasta "Messkiro's Adventure** → Contém o projeto do jogo desenvolvido na Unity.
-- **PDF "Messkiro's Adventure: GDD"** → Apresenta o Game Design Document (GDD) do jogo desenvolvido.
+- **PDF "GDD - Messkiro's Adventure"** → Apresenta o Game Design Document (GDD) do jogo desenvolvido.
 
 ### 📌 Observação
 
